@@ -1,4 +1,4 @@
-import java.util.Scanner;
+gimport java.util.Scanner;
 class AreaTriangulo{
 static Scanner teclado=new Scanner(System.in);
 public static void main(String[] arg){
